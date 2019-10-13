@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rainbojack1/clicky-game-2/precache-manifest.68c6ae3e7e8a1563d50578842d102733.js"
+  "/rainbojack1/clicky-game-2/precache-manifest.352f2309fd8615b3f8c85f5be498ad87.js"
 );
 
 self.addEventListener('message', (event) => {
