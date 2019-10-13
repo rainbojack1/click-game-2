@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Steven",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f0/Steven_Shield_WD.png/revision/latest/scale-to-width-down/350?cb=20190628032322",
+      "selected": false
+    },
+    {
+        "id": 2,
+        "name": "Garnet",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/9b/Garnet_%28Distance_Model%29.png/revision/latest/scale-to-width-down/150?cb=20150403162846",
+        "selected": false
+      },
+      {
+        "id": 3,
+        "name": "Pearl",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8c/Current_Pearl_Request.png/revision/latest/scale-to-width-down/305?cb=20170807000053",
+        "selected": false
+      },
+      {
+        "id": 4,
+        "name": "Ruby",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f6/Ruby_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190223220556",
+        "selected": false
+      },
+      {
+        "id": 5,
+        "name": "Sapphire",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20190223221703",
+        "selected": false
+      },
+      {
+        "id": 6,
+        "name": "Amethyst",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/53/Jfek_New_Gen.png/revision/latest/scale-to-width-down/350?cb=20160708025000",
+        "selected": false
+      },
+      {
+        "id": 7,
+        "name": "Connie",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/12/ConnieNewIntro.png/revision/latest/scale-to-width-down/350?cb=20160920145959",
+        "selected": false
+      },
+      {
+        "id": 8,
+        "name": "Lapis",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a2/LookBeckyItsLapis.png/revision/latest/scale-to-width-down/350?cb=20190209185655",
+        "selected": false
+      },
+      {
+        "id": 9,
+        "name": "Peridot",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3b/Peridot_S6_Regen_By_TheOffColors.png/revision/latest/scale-to-width-down/262?cb=20190209185218",
+        "selected": false
+      },
+      {
+        "id": 10,
+        "name": "Rose Quartz",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f9/Rose_Quartz_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190115021346",
+        "selected": false
+      },
+      {
+        "id": 11,
+        "name": "Bismuth",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/da/BismuthMovie.png/revision/latest/scale-to-width-down/350?cb=20190910222855",
+        "selected": false
+      },
+      {
+        "id": 12,
+        "name": "Greg",
+        "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3b/Greg_%28alternate_outfit%29.png/revision/latest/scale-to-width-down/350?cb=20170221025131",
+        "selected": false
+      }
+]
